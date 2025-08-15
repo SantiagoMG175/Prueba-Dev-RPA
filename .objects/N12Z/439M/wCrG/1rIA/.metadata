@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Icono 'IMG'",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "1rIAkrbLpEiP35_62ad8_w",
+  "Reference": "ubHGxbeaKkqONdRLcGSBWw/1rIAkrbLpEiP35_62ad8_w",
+  "ParentRef": "ubHGxbeaKkqONdRLcGSBWw/wCrG1vnC_ECtgTzR8-uenw",
+  "Created": "2025-08-15T05:13:35.6109521Z",
+  "Updated": "2025-08-15T05:13:35.6109521Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

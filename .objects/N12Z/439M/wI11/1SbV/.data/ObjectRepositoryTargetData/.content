@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uCWp_UiSGUuLbrITfBCIbw" Reference="ubHGxbeaKkqONdRLcGSBWw/1SbVA1454E2Q1oXeUXzJLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="micnt.com.ec/cntapp/guia104/php/guia_cntat.php" CVScreenId="cd5a196d-56bd-41ea-958e-cbe07c9e2511" DesignTimeRectangle="168, 552, 32, 32" ElementType="Icon" FullSelectorArgument="&lt;webctrl idx='2' tag='TABLE' /&gt;&lt;webctrl tag='IMG' class='captchaImage' src='../../lib/simpleCaptcha0.2/captchaImages/12.png' matching:src='regex' /&gt;" Guid="f435a4c9-6bad-49fd-94fa-b95320090d94" ScopeSelectorArgument="&lt;html app='chrome.exe' title=':: Guía Telefónica CNT EP ::' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="f006749e427d7864afbf5a80d2610e53.png" xmlns="">0OF3bIVYYt0SaDXoT1fxB9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

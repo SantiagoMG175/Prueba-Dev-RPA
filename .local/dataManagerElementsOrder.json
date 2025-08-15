@@ -1,0 +1,95 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "navegacionBusqueda.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sesionChrome&e5d42f24-1b37-422b-9c4d-2cdd5f93004a",
+        "provinciaActual&267dcdca-ca1c-49b7-b847-abda606c0abb"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "init.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "emailBool&528b8668-b6a8-49dc-8fd9-3b32da87d905",
+        "emailValido&528b8668-b6a8-49dc-8fd9-3b32da87d905",
+        "variable2&Sequence_2",
+        "variable1&Sequence_2",
+        "provinciaValida&Sequence_10",
+        "provinciaValida&Sequence_7",
+        "apellidoValido&Sequence_7",
+        "variable3&Sequence_2",
+        "variable2&Sequence_2",
+        "variable1&Sequence_2",
+        "provinciaVar&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "resolverCaptcha.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "listaArray&86bdf304-f77e-49d8-989b-c2ac74d95c32",
+        "indiceImagen&86bdf304-f77e-49d8-989b-c2ac74d95c32",
+        "listName&86bdf304-f77e-49d8-989b-c2ac74d95c32",
+        "imgenIt&86bdf304-f77e-49d8-989b-c2ac74d95c32",
+        "imgSrc2&f282b82c-89f5-4200-b92c-b197835a86db",
+        "nombreArchivo&f282b82c-89f5-4200-b92c-b197835a86db",
+        "imgSrc3&b83a4226-d6b4-4e65-a680-3213e41ae54d",
+        "imgSrc2&b83a4226-d6b4-4e65-a680-3213e41ae54d",
+        "imgSrc1&b83a4226-d6b4-4e65-a680-3213e41ae54d",
+        "imgSrc1&53678df4-d9c7-4148-b986-b435f28c0dce",
+        "nombreNormalizado&53678df4-d9c7-4148-b986-b435f28c0dce",
+        "archivoObjetivo&53678df4-d9c7-4148-b986-b435f28c0dce",
+        "dictFinal&53678df4-d9c7-4148-b986-b435f28c0dce",
+        "listDiccionario&8e9a84ca-9afc-4c55-ae4b-7ff87901f702",
+        "jsonDese&e5d42f24-1b37-422b-9c4d-2cdd5f93004a",
+        "jsonObj&e5d42f24-1b37-422b-9c4d-2cdd5f93004a",
+        "diccionarioImagenes&e5d42f24-1b37-422b-9c4d-2cdd5f93004a",
+        "diccionarioImagenes&162fa982-df17-4064-9380-d664d34fef19"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "extraerTablas.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sinElementos&528b8668-b6a8-49dc-8fd9-3b32da87d905",
+        "totalContactos&8fa63d49-3c67-4cd2-b9bf-cb81a1f2bd14",
+        "dtContactos&8fa63d49-3c67-4cd2-b9bf-cb81a1f2bd14",
+        "existeBotonSiguiente&cf0068a8-770f-4e4d-aa30-ef81ffe65aaa",
+        "ultimaFila&cf0068a8-770f-4e4d-aa30-ef81ffe65aaa",
+        "drFinal&691fa8d0-09e0-4315-a73f-dfb7c0fabbf0",
+        "maxPaginas&691fa8d0-09e0-4315-a73f-dfb7c0fabbf0",
+        "paginaActual&691fa8d0-09e0-4315-a73f-dfb7c0fabbf0"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

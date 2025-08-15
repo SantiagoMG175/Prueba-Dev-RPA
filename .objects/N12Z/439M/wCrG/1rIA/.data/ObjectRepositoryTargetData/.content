@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zMat1qD_qUu4mB5KQTxcVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" Accuracy="1" BrowserURL="micnt.com.ec/cntapp/guia104/php/guia_cntat.php" CVScreenId="60a64205-860d-4ab7-a10f-24e2b13a2c77" CvElementArea="1011, 278, 16, 17" CvType="ArrowButton" DesignTimeRectangle="1011, 279, 14, 14" ElementType="Icon" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;table' idx='2' tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='IMG' alt='Ir Página Siguiente' src='../images/siguiente.gif' /&gt;" Guid="786957e3-5328-4256-8f3c-3ba85a4d2195" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB6SURBVDhP1cwhCoBQEIThvbOI8TUxeAGTGKxewXOYXjILNtPIGgyLvFnFoD9sWYZP8FJiH0/7G7RGYFvs97I0NI9AJy6MQ6UAPcc4VAtQccwHNRzzQ3qFAHGwqyM/lAswtXZx5oMIonEo44jGIQeipaEbfRAKIeCN2wFbTs0hARmyCgAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title=':: Guía Telefónica CNT EP ::' /&gt;" SearchSteps="Selector, Image, CV, SemanticSelector" SemanticSelectorArgument="Next page arrow button" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="2cc20ddd20647a777a6b3d8fedddcaf5.png" xmlns="">0xiJcRxtWMkybQVa5IUJVqQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
